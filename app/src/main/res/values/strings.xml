@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Which is more?</string>
+    <string name="action_restart">Restart</string>
+    <string name="action_contact">Contact</string>
+</resources>
